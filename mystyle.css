@@ -1,0 +1,27 @@
+.wrap {
+    width: 220px;
+    font-size: 14px;
+}
+
+.wrap .menu {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+
+}
+
+.wrap li {
+    padding: 2px 0 2px 20px;
+
+}
+
+.wrap li a {
+    text-decoration: none;
+    color: #636363;
+}
+.wrap li:hover {
+    background-color: #d9d9d9;
+}
+.wrap li a:hover {
+    color: #c81623;
+}
